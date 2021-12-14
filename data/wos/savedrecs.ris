@@ -1,0 +1,1956 @@
+﻿TY  - JOUR
+AU  - Tobler, W
+TI  - A new companion for Mercator
+T2  - CARTOGRAPHY AND GEOGRAPHIC INFORMATION SCIENCE
+LA  - English
+KW  - Map projection
+KW  - equal area
+KW  - Mercator
+AB  - The inappropriate use of the Mercator projection has declined but still occasionally occurs. One method of contrasting the Mercator projection is to present an alternative in the form of an equal area projection. The map projection derived here is thus not simply a pretty Christmas tree ornament: it is instead a complement to Mercator's conformal navigation anamorphose and can be displayed as an alternative. The equations for the new map projection preserve the latitudinal stretching of the Mercator while adjusting the longitudinal spacing. This allows placement of the new map adjacent to that of Mercator. The surface area, while drastically warped, maintains the correct magnitude.
+AD  - Univ Calif Santa Barbara, Dept Geog, Santa Barbara, CA 93106 USA
+NR  - 3
+PU  - TAYLOR & FRANCIS INC
+PI  - PHILADELPHIA
+PA  - 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN  - 1523-0406
+SN  - 1545-0465
+J9  - CARTOGR GEOGR INF SC
+JI  - Cartogr. Geogr. Inf. Sci.
+PY  - 2018
+VL  - 45
+IS  - 3
+SP  - 284
+EP  - 285
+DO  - 10.1080/15230406.2017.1308837
+AN  - WOS:000425064400008
+ER  -
+
+TY  - JOUR
+AU  - Tobler, W
+TI  - THE CURIOUS CASE OF 21/2 D
+T2  - QUAESTIONES GEOGRAPHICAE
+LA  - English
+KW  - continuous
+KW  - discrete
+KW  - fractal
+AB  - Some geographical phenomena are continuous and exist in whole number dimensions. Topography, for example. Other phenomena, such as population density, depend heavily on the area used in their computation. Some refer to this as existing in 21/2 dimensions. Is the difference just because it is a computed, rather than an observed quantity? I argue the case for considering treatment of discrete geographic data as continuous.
+AD  - Univ Calif Santa Barbara, Dept Geog, Santa Barbara, CA 93106 USA
+NR  - 10
+PU  - DE GRUYTER OPEN LTD
+PI  - WARSAW
+PA  - BOGUMILA ZUGA 32A ST, 01-811 WARSAW, POLAND
+SN  - 0137-477X
+SN  - 2081-6383
+J9  - QUAEST GEOGR
+JI  - Quaest. Geogr.
+DA  - DEC
+PY  - 2015
+VL  - 34
+IS  - 4
+SP  - 85
+EP  - 89
+DO  - 10.1515/quageo-2015-0040
+AN  - WOS:000369149300009
+ER  -
+
+TY  - JOUR
+AU  - Yoo, EH
+AU  - Kyriakidis, PC
+AU  - Tobler, W
+TI  - Reconstructing Population Density Surfaces from Areal Data: A Comparison of Tobler's Pycnophylactic Interpolation Method and Area-to-Point Kriging
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+AB  - We compare Tobler's pycnophylactic interpolation method with the geostatistical approach of area-to-point kriging for distributing population data collected by areal unit in 18 census tracts in Ann Arbor for 1970 to reconstruct a population density surface. In both methods, (1) the areal data are reproduced when the predicted population density is upscaled; (2) physical boundary conditions are accounted for, if they exist; and (3) inequality constraints, such as the requirement of non-negative point predictions, are satisfied. The results show that when a certain variogram model, that is, the de Wijsian model corresponding to the free-space Green's function of Laplace's equation, is used in the geostatistical approach under the same boundary condition and constraints with Tobler's approach, the predicted population density surfaces are almost identical (up to numerical errors and discretization discrepancies). The implications of these findings are twofold: (1) multiple attribute surfaces can be constructed from areal data using the geostatistical approach, depending on the particular point variogram model adopted-that variogram model need not be the one associated with Tobler's solution and (2) it is the analyst's responsibility to justify whether the smoothness criterion employed in Tobler's approach is relevant to the particular application at hand. A notable advantage of the geostatistical approach over Tobler's is that it allows reporting the uncertainty or reliability of the interpolated values, with critical implications for uncertainty propagation in spatial analysis operations.
+AD  - SUNY Buffalo, Dept Geog, Buffalo, NY 14260 USA
+AD  - Univ Calif Santa Barbara, Dept Geog, Santa Barbara, CA 93106 USA
+NR  - 34
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0016-7363
+SN  - 1538-4632
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+DA  - JAN
+PY  - 2010
+VL  - 42
+IS  - 1
+SP  - 78
+EP  - 98
+DO  - 10.1111/j.1538-4632.2009.00783.x
+AN  - WOS:000273942200006
+ER  -
+
+TY  - JOUR
+AU  - Cao, M
+AU  - Wang, KW
+AU  - Devries, L
+AU  - Fujii, Y
+AU  - Tobler, WE
+AU  - Pietron, GM
+TI  - Experimental characterization and gray-box modeling of spool-type automotive variable-force-solenoid valves with circular flow ports and notches
+T2  - JOURNAL OF DYNAMIC SYSTEMS MEASUREMENT AND CONTROL-TRANSACTIONS OF THE ASME
+LA  - English
+KW  - spool valve
+KW  - fluid control systems
+KW  - discharge coefficient
+KW  - jet angle
+KW  - variable force solenoid (VFS)
+KW  - gray box
+KW  - nondimensional artificial neural network (NDANN)
+KW  - FRICTION COMPONENT MODEL
+KW  - ARTIFICIAL NEURAL-NETWORKS
+KW  - SYSTEM DYNAMIC-ANALYSIS
+AB  - In automatic transmission design, electronic control techniques have been adopted through proportional variable-force-solenoid valves, which typically consist of spool-type valves (Christenson, W. A., 2000, SAE Technical Paper Series, 2000-01-0116). This paper presents an expert. mental investigation and neural network modeling of the fluid force and flow rate for a spool-type hydraulic valve with symmetrically distributed circular ports. Through extensive data analysis, general trends of fluid force and flow rate are derived as functions of pressure drop and valve opening. To further reveal the insights of the spool valve fluid field, equivalent jet angle and discharge coefficient are calculated from the measurements, based on the lumped parameter models. By incorporating physical knowledge with nondimensional artificial neural networks (NDANN), gray-box NDANN-based hydraulic valve system models are also developed through the use of equivalent jet angle and discharge coefficient. The gray-box NDANN models calculate fluid force and flow rate as well as the intermediate variables with useful design implications. The network training and testing demonstrate that the gray-box NDANN fluid field estimators can accurately, capture the relationship between the key geometry parameters and discharge coefficient/jet angle. The gray-box NDANN maintains the nondimensional network configuration, and thus possesses good scalability with respect to the geometry parameters and key operating conditions. All of these features make the gray-box NDANN fluid field estimator a valuable tool for hydraulic system design.
+AD  - Penn State Univ, Dept Mech & Nucl Engn, University Pk, PA 16802 USA
+AD  - Ford Motor Co, Res & Adv Engn, Dearborn, MI 48121 USA
+NR  - 26
+PU  - ASME
+PI  - NEW YORK
+PA  - TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN  - 0022-0434
+SN  - 1528-9028
+J9  - J DYN SYST-T ASME
+JI  - J. Dyn. Syst. Meas. Control-Trans. ASME
+DA  - SEP
+PY  - 2006
+VL  - 128
+IS  - 3
+SP  - 636
+EP  - 654
+DO  - 10.1115/1.2232687
+AN  - WOS:000240924300019
+ER  -
+
+TY  - JOUR
+AU  - Cao, M
+AU  - Wang, K
+AU  - Fujii, Y
+AU  - Tobler, WE
+TI  - Development of a friction component model for automotive powertrain system analysis and shift controller design based on parallel-modulated neural networks
+T2  - JOURNAL OF DYNAMIC SYSTEMS MEASUREMENT AND CONTROL-TRANSACTIONS OF THE ASME
+LA  - English
+KW  - friction component
+KW  - powertrain simulation
+KW  - automatic transmission
+KW  - dynamic modeling
+KW  - hybrid neural network
+KW  - analytical calibration
+KW  - DYNAMIC ENGAGEMENT BEHAVIOR
+KW  - SQUEEZE FILM
+KW  - PART 1
+KW  - PREDICTION
+AB  - In this study, a new hybrid-neural-network-based friction component model is developed for powertrain (PT) dynamic analysis and controller design. This new model, with significantly improved input-output scalability over conventional neural network configuration, has the capability to serve as a forward as well as an inverse system model. The structural information of the available physical and empirical correlations is utilized to construct a parallel-modulated neural network (PMNN) architecture consisting of small parallel sub-networks reflecting specific mechanisms of the friction component engage ment process. The PMNN friction component model isolates the contribution of engagement pressure on engagement torque while identifying the nonlinear characteristics of the pressure-torque correlation. Furthermore, it provides a simple torque formula that is scalable with respect to engagement pressure. The network is successfully trained, tested and analyzed, first using analytical data at the component level and then using experimental data measured in a transmission system. The PMNN friction component model, together with a comprehensive powertrain model, is implemented to simulate the shifting process of an automatic transmission (AT) system under various operating conditions. Simulation results demonstrate that the PMNN model can be effectively applied as a part of powertrain system model to accurately predict transmission shift dynamics. A pressure-profiling scheme using a quadratic polynomial pressure-torque relationship of the PMNN model is developed for transmission shift controller design. The results illustrate that the proposed pressure profiling technique can be applied to a wide range of operating conditions. This study demonstrates the potential of the PMNN architecture as a new dynamic system-modeling concept: It not only outperforms the conventional network modeling techniques in accuracy and numerical efficiency, but also provides a new tool for transmission controller design to improve shift quality.
+AD  - United Technol Res Ctr, E Hartford, CT 06108 USA
+AD  - Penn State Univ, Dept Mech & Nucl Engn, University Pk, PA 16802 USA
+AD  - Ford Motor Co, Res & Adv Engn, Dearborn, MI 48121 USA
+NR  - 39
+PU  - ASME
+PI  - NEW YORK
+PA  - TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN  - 0022-0434
+SN  - 1528-9028
+J9  - J DYN SYST-T ASME
+JI  - J. Dyn. Syst. Meas. Control-Trans. ASME
+DA  - SEP
+PY  - 2005
+VL  - 127
+IS  - 3
+SP  - 382
+EP  - 405
+DO  - 10.1115/1.1978909
+AN  - WOS:000232071400009
+ER  -
+
+TY  - JOUR
+AU  - Cao, M
+AU  - Wang, KW
+AU  - DeVries, L
+AU  - Fujii, Y
+AU  - Tobler, WE
+AU  - Pietron, GM
+AU  - Tibbles, T
+AU  - McCallum, J
+TI  - Steady state hydraulic valve fluid field estimator based. on non-dimensional artificial neural network (NDANN)
+T2  - JOURNAL OF COMPUTING AND INFORMATION SCIENCE IN ENGINEERING
+LA  - English
+KW  - DYNAMICS
+KW  - PREDICTION
+KW  - MODEL
+AB  - An automatic transmission (AT) hydraulic control system includes many spool-type valves that have highly asymmetric flow geometry. A simplified flow field model based on a lumped geometry is computationally efficient. However it often fails to account for asymmetric flow characteristics, leading to an inaccurate analysis. An accurate analysis of their flow fields typically requires using the computational fluid dynamics (CFD) technique, which is numerically inefficient and time consuming. In this paper a new hydraulic valve fluid field model is developed based on non-dimensional artificial neural networks (NDANNs) to provide an accurate and numerically efficient tool in AT control system design applications. A grow-and-trim procedure is proposed to identify critical non-dimensional inputs and optimize the network architecture. A hydraulic valve testing bench is designed and built to provide data for neural network model development. NDANN-based fluid force and flow rate estimators are established based on the experimental data. The NDANN models provide more accurate predictions of flow force and flow rates under broad operating conditions (such as different pressure drops and valve openings) compared with conventional lumped flow field models. Because of its non-dimensional characteristic, the NDANN fluid field estimator also exhibits good input-output scalability, which allows the NDANN model to estimate the fluid force and flow rate even when the operating condition parameter or design geometry parameters are outside the range of the training data. That is, although the operating/geometry parameter values are outside the range of the training sets, the non-dimensional values of the specific operating/geometry parameters are still within the training range. This feature makes the new model a potential candidate as a system design tool.
+AD  - Penn State Univ, Dept Mech & Nucl Engn, University Pk, PA 16802 USA
+AD  - Ford Motor Co, Res & Adv Engn, Dearborn, MI 48121 USA
+NR  - 29
+PU  - ASME
+PI  - NEW YORK
+PA  - TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN  - 1530-9827
+SN  - 1944-7078
+J9  - J COMPUT INF SCI ENG
+JI  - J. Comput. Inf. Sci. Eng.
+DA  - SEP
+PY  - 2004
+VL  - 4
+IS  - 3
+SP  - 257
+EP  - 270
+DO  - 10.1115/1.1765119
+AN  - WOS:000224133500012
+ER  -
+
+TY  - JOUR
+AU  - Cao, M
+AU  - Wang, KW
+AU  - Fujii, Y
+AU  - Tobler, WE
+TI  - Advanced hybrid neural network automotive friction component model for powertrain system dynamic analysis. Part 1: model development
+T2  - PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART D-JOURNAL OF AUTOMOBILE ENGINEERING
+LA  - English
+KW  - powertrain
+KW  - automatic transmission
+KW  - dynamic modelling
+KW  - neural network
+KW  - friction component
+KW  - ENGAGEMENT BEHAVIOR
+KW  - PREDICTION
+AB  - An accurate and easy-to-implement dynamic friction component model is necessary for powertrain system design and performance studies. A neural network approach developed by Cao et al. [1] for friction component modelling has illustrated some very promising results. However, this model has complex architecture that may lead to reduced training efficiency; also, owing to the lack of time information, the network cannot adapt to time step variations. Therefore, it cannot be easily integrated with powertrain system models, which in general require variable time steps for superior numerical integration performance. In this paper, a new first-principle-based hybrid network friction component model, the advanced hybrid neural network (AHNN), is derived for dynamic engagement analysis with variable time steps. With improvement over the previous work by Cao et al. [1], the time pattern information is added to the inputs and a simpler architecture is developed through more explicit utilization of the physical laws. With these new features, the AHNN model can significantly out-perform the previous approach. The network is trained and tested using experimental data as well as analytical results. It is shown that this new model can compensate for time step variations and can predict the friction component torque accurately for a wide range of operating conditions. This is Part 1 of a two-part paper. In Part 2, the AHNN friction component model is integrated with a powertrain model and implemented for system simulations.
+AD  - Penn State Univ, Dept Mech & Nucl Engn, University Pk, PA 16802 USA
+AD  - Ford Motor Co, Res & Adv Engn, Dearborn, MI 48121 USA
+NR  - 17
+PU  - PROFESSIONAL ENGINEERING PUBLISHING LTD
+PI  - BURY ST EDMUNDS
+PA  - NORTHGATE AVENUE, BURY ST EDMUNDS IP32 6BW, SUFFOLK, ENGLAND
+SN  - 0954-4070
+J9  - P I MECH ENG D-J AUT
+JI  - Proc. Inst. Mech. Eng. Part D-J. Automob. Eng.
+DA  - AUG
+PY  - 2004
+VL  - 218
+IS  - D8
+SP  - 831
+EP  - 843
+DO  - 10.1243/0954407041581147
+AN  - WOS:000223900300006
+ER  -
+
+TY  - JOUR
+AU  - Cao, M
+AU  - Wang, KW
+AU  - Fujii, Y
+AU  - Tobler, WE
+TI  - Advanced hybrid neural network automotive friction component model for powertrain system dynamic analysis. Part 2: system simulation
+T2  - PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART D-JOURNAL OF AUTOMOBILE ENGINEERING
+LA  - English
+KW  - automotive drivetrain
+KW  - transmission
+KW  - dynamic modelling
+KW  - simulation
+KW  - neural network
+KW  - friction component
+KW  - ENGAGEMENT BEHAVIOR
+KW  - PREDICTION
+AB  - In this research, the advanced hybrid neural network (AHNN) friction-component model, presented in Part I of this two-part paper, is integrated with an automotive drivetrain model for system simulations. The AHNN model accurately predicts the dynamic behaviours of transmission friction components over a broad operating range. It also allows variable sampling time steps in a numerical integration process. In this investigation, the AHNN model is trained using experimental data obtained from a powertrain dynamometer test stand. Since typical dynamometer measurements are acquired at locations away from friction components, a backtracking algorithm is developed to evaluate friction component torque during engagement. The trained AHNN model, together with a comprehensive drivetrain model, is implemented to simulate the shifting process of an automatic transmission system under various operating conditions, including different oil-temperature and engine-throttle levels. Simulation results demonstrate that the AHNN friction component model can be effectively utilized as a part of the drivetrain model to accurately predict transmission shift dynamics.
+AD  - Penn State Univ, Dept Mech & Nucl Engn, University Pk, PA 16802 USA
+AD  - Ford Motor Co, Res & Adv Engn, Dearborn, MI 48121 USA
+NR  - 14
+PU  - PROFESSIONAL ENGINEERING PUBLISHING LTD
+PI  - BURY ST EDMUNDS
+PA  - NORTHGATE AVENUE, BURY ST EDMUNDS IP32 6BW, SUFFOLK, ENGLAND
+SN  - 0954-4070
+J9  - P I MECH ENG D-J AUT
+JI  - Proc. Inst. Mech. Eng. Part D-J. Automob. Eng.
+DA  - AUG
+PY  - 2004
+VL  - 218
+IS  - D8
+SP  - 845
+EP  - 857
+DO  - 10.1243/0954407041581093
+AN  - WOS:000223900300007
+ER  -
+
+TY  - JOUR
+AU  - Tobler, W
+TI  - On the first law of geography: A reply
+T2  - ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+LA  - English
+KW  - MIGRATION
+AD  - Univ Calif Santa Barbara, Dept Geog, Santa Barbara, CA 93106 USA
+NR  - 50
+PU  - BLACKWELL PUBLISHERS
+PI  - MALDEN
+PA  - 350 MAIN STREET, STE 6, MALDEN, MA 02148 USA
+SN  - 0004-5608
+J9  - ANN ASSOC AM GEOGR
+JI  - Ann. Assoc. Am. Geogr.
+DA  - JUN
+PY  - 2004
+VL  - 94
+IS  - 2
+SP  - 304
+EP  - 310
+DO  - 10.1111/j.1467-8306.2004.09402009.x
+AN  - WOS:000221906300009
+ER  -
+
+TY  - JOUR
+AU  - Cao, M
+AU  - Wang, KW
+AU  - Fujii, Y
+AU  - Tobler, WE
+TI  - A hybrid neural network approach for the development of friction component dynamic model
+T2  - JOURNAL OF DYNAMIC SYSTEMS MEASUREMENT AND CONTROL-TRANSACTIONS OF THE ASME
+LA  - English
+KW  - ENGAGEMENT BEHAVIOR
+KW  - PREDICTION
+KW  - SIMULATION
+AB  - In this research, a new hybrid neural network is developed to model engagement behaviors of automotive transmission wet friction component. Utilizing known first principles on the physics of engagement, special modules are created to estimate viscous torque and asperity contact torque as preprocessors to a two-layer neural network. Inside these modules, all the physical parameters are represented by neurons with various activation functions derived from first principles. These new features contribute to the improved performance and trainability over a conventional two-layer network model. Both the hybrid and conventional neural net models are trained and tested with experimental data collected from an SAE#2 test stand. The results show that the performance of the hybrid model is much superior to that of the conventional model. It successfully captures detailed characteristics of the friction component engagement torque as a function of time over a wide operating range.
+AD  - Penn State Univ, Dept Mech & Nucl Engn, University Pk, PA 16802 USA
+AD  - Ford Motor Co, Res & Adv Engn, Dearborn, MI 48121 USA
+NR  - 26
+PU  - ASME-AMER SOC MECHANICAL ENG
+PI  - NEW YORK
+PA  - THREE PARK AVE, NEW YORK, NY 10016-5990 USA
+SN  - 0022-0434
+J9  - J DYN SYST-T ASME
+JI  - J. Dyn. Syst. Meas. Control-Trans. ASME
+DA  - MAR
+PY  - 2004
+VL  - 126
+IS  - 1
+SP  - 144
+EP  - 153
+DO  - 10.1115/1.1649980
+AN  - WOS:000220859600016
+ER  -
+
+TY  - JOUR
+AU  - Tobler, W
+TI  - Thirty five years of computer cartograms
+T2  - ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+LA  - English
+KW  - anamorphoses
+KW  - cartograms
+KW  - map distortion
+KW  - map projections
+KW  - quasiconformal
+KW  - MAP PROJECTIONS
+KW  - AREA CARTOGRAMS
+KW  - TRANSFORMATIONS
+AB  - The notion of a cartogram is reviewed. Then, based on a presentation from the 1960s, a direct and simple introduction is given to the design of a computer algorithm for the construction of contiguous value-by-area cartograms. As an example, a table of latitude/longitude to rectangular plane coordinates is included for a cartogram of the United States, along with Tissot's measures for this map projection. This is followed by a short review of the subsequent history of the subject and includes citation of algorithms proposed by others. In contrast to the usual geographic map, the most common use of cartograms is solely for the display and emphasis of a geographic distribution. A second use is in analysis, as a nomograph or problem-solving device similar in use to Mercator's projection, or in the transform-solve-invert paradigm. Recent innovations by computer scientists modify the objective and suggest variation similar to Airy's (1861) "balance of errors" idea for map projections.
+AD  - Univ Calif Santa Barbara, Dept Geog, Santa Barbara, CA 93106 USA
+NR  - 94
+PU  - BLACKWELL PUBLISHERS
+PI  - MALDEN
+PA  - 350 MAIN STREET, STE 6, MALDEN, MA 02148 USA
+SN  - 0004-5608
+J9  - ANN ASSOC AM GEOGR
+JI  - Ann. Assoc. Am. Geogr.
+DA  - MAR
+PY  - 2004
+VL  - 94
+IS  - 1
+SP  - 58
+EP  - 73
+DO  - 10.1111/j.1467-8306.2004.09401004.x
+AN  - WOS:000189291300004
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Y
+AU  - Zou, Z
+AU  - Chen, X
+AU  - Zhang, X
+AU  - Tobler, W
+TI  - Simulation and analysis of transmission shift dynamics
+T2  - INTERNATIONAL JOURNAL OF VEHICLE DESIGN
+LA  - English
+KW  - transmission modelling and simulation
+KW  - powertrain dynamics
+KW  - automatic transmissions
+AB  - This paper presents a simulation model for the shift process of vehicle automatic transmissions implemented in an object-oriented software environment. All the subsystems or components in the driveline from the engine to the wheels are integrated into the overall vehicle powertrain model. Standard library models are directly used for some of the common components used in the powertrain such as gears, inertia, clutches, etc. Other components such as the engine, torque converter, shift controller are either developed independently or adopted from existing sources. A 4-speed automatic transmission is used as an example in the paper to illustrate the modelling and simulation. The dynamic behaviour of the transmission in up and down shift processes is simulated by the model under various powertrain operation conditions. The simulation data on shift transmissions such as torque hole, torque overshoot, shift time, etc., are quantitatively analysed for the assessment of shift quality. Shift control variables are adjusted interactively to calibrate the transmission for the best trade off between shift time and smoothness based on model simulation.
+AD  - Univ Michigan, Dept Engn Mech, Dearborn, MI 48128 USA
+AD  - Ford Motor Co, Ford Res Lab, Dearborn, MI 48124 USA
+NR  - 15
+PU  - INDERSCIENCE ENTERPRISES LTD
+PI  - GENEVA
+PA  - WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 896, CH-1215 GENEVA, SWITZERLAND
+SN  - 0143-3369
+J9  - INT J VEHICLE DES
+JI  - Int. J. Veh. Des.
+PY  - 2003
+VL  - 32
+IS  - 3-4
+SP  - 273
+EP  - 289
+DO  - 10.1504/IJVD.2003.003557
+AN  - WOS:000184925600007
+ER  -
+
+TY  - JOUR
+AU  - Fujii, Y
+AU  - Tobler, WE
+AU  - Clausing, EM
+AU  - Megli, TW
+AU  - Haghgooie, M
+TI  - Application of dynamic band brake model for enhanced drivetrain simulation
+T2  - PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART D-JOURNAL OF AUTOMOBILE ENGINEERING
+LA  - English
+KW  - drivetrain
+KW  - automatic transmission
+KW  - dynamic modelling
+KW  - band brake
+KW  - engagement
+KW  - shift
+KW  - ENGAGEMENT BEHAVIOR
+KW  - WET
+KW  - PREDICTION
+AB  - In a modern vehicle design process, analytical tools are widely employed to complement experimental approaches for design evaluation. When effectively utilized, they lead to a reduced development time with improved vehicle performance. The development process of an automatic transmission (AT) system can benefit from an analytical representation which accurately captures AT shifting behaviours. In a typical AT system, friction components such as wet clutches and band brakes are utilized to alter planetary gear configurations for automatic shifting. Thus, an accurate representation of friction component dynamics is critical in predicting AT shifting behaviour. Engagement characteristics of friction components vary widely under different operating conditions. Although the basic engagement physics was identified in the 1970s, it is relatively recently that a predictive, yet computationally efficient model became available. This paper describes the first attempt to utilize a dynamic friction component model in drivetrain simulations. Specifically, a dynamic band brake model is implemented to predict the up-shift behaviour of a four-speed AT system under various operating conditions. Simulation results are qualitatively validated with experimental data obtained from a dynamometer test stand. The dynamic band brake model enhances the shift predictability of a drivetrain model and potentially allows analytical evaluation of shift quality and control strategy.
+AD  - Ford Motor Co, Ford Res Lab, Dearborn, MI 48121 USA
+NR  - 19
+PU  - PROFESSIONAL ENGINEERING PUBLISHING LTD
+PI  - BURY ST EDMUNDS
+PA  - NORTHGATE AVENUE,, BURY ST EDMUNDS IP32 6BW, SUFFOLK, ENGLAND
+SN  - 0954-4070
+J9  - P I MECH ENG D-J AUT
+JI  - Proc. Inst. Mech. Eng. Part D-J. Automob. Eng.
+PY  - 2002
+VL  - 216
+IS  - D11
+SP  - 873
+EP  - 881
+DO  - 10.1243/095440702321031423
+AN  - WOS:000180012000003
+ER  -
+
+TY  - JOUR
+AU  - Fujii, Y
+AU  - Tobler, WE
+AU  - Snyder, TD
+TI  - Prediction of wet band brake dynamic engagement behaviour - Part 1: mathematical model development
+T2  - PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART D-JOURNAL OF AUTOMOBILE ENGINEERING
+LA  - English
+KW  - brakes
+KW  - dynamic modelling
+KW  - squeeze film
+KW  - contact of rough surfaces
+KW  - heat transfer
+KW  - NUMERICAL-SIMULATION
+KW  - LUBRICATION
+KW  - ROUGHNESS
+AB  - A wet (oil-lubricated) band brake is a critical component in the operation of automatic transmission systems in automotive applications. Its engagement characteristics significantly affect the quality of automatic shifting. During the automatic transmission design process, it is important to characterize band engagement behaviour accurately under a wide range of operating conditions. This paper describes a mathematical model which predicts the dynamic engagement behaviour of the wet band brake. The space-time-dependent model includes the effects of squeeze film, asperity deformation, porous oil diffusion, heat transfer and loading pressure distribution caused by a self-energizing mechanism. The model can be readily implemented and efficiently executed on a computer as a stand-alone program or as a subroutine for automatic transmission shift simulations. Knowledge of band engagement obtained through the model is expected to lead to improved band design and automatic transmission shift calibration processes.
+AD  - Ford Motor Co, Powertrain & Vehicle Res Lab, Dearborn, MI 48121 USA
+AD  - Ford Motor Co, Automat Transmiss Engn Off, Livonia, MI USA
+NR  - 48
+PU  - SAGE PUBLICATIONS LTD
+PI  - LONDON
+PA  - 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN  - 0954-4070
+SN  - 2041-2991
+J9  - P I MECH ENG D-J AUT
+JI  - Proc. Inst. Mech. Eng. Part D-J. Automob. Eng.
+PY  - 2001
+VL  - 215
+IS  - D4
+SP  - 479
+EP  - 492
+DO  - 10.1243/0954407011528095
+AN  - WOS:000169035000004
+ER  -
+
+TY  - JOUR
+AU  - Fujii, Y
+AU  - Tobler, WE
+AU  - Snyder, TD
+TI  - Prediction of wet band brake dynamic engagement behaviour - Part 2: experimental model validation
+T2  - PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART D-JOURNAL OF AUTOMOBILE ENGINEERING
+LA  - English
+KW  - brakes
+KW  - dynamic modelling
+KW  - squeeze film
+KW  - contact of rough surfaces
+KW  - heat transfer
+AB  - A wet (oil-lubricated) band brake in a vehicle automatic transmission system exhibits widely varying engagement behaviour under different operating conditions. In recent years, analytical evaluation of the band engagement behaviour has become increasingly important to improve automatic transmission shift quality. Thus. a mathematical tool which accurately captures band engagement physics is indispensable in a transmission design process. This paper describes experimental validation of the dynamic band engagement model which includes the physics of squeeze film, asperity deformation, porous oil diffusion., heat transfer and loading pressure distribution caused by a self-energizing mechanism. The model is implemented as a stand-alone computer program to predict the band engagement behaviour on an inertia absorption type band engagement test stand. Simulation results show good agreement with experimental torque profiles over a wide range of operating conditions. The model provides an analytical interpretation of the widely varying engagement behaviour resulting from the effects of oil temperature, friction material permeability and drum speed. The successful model validation demonstrates that the dynamic band engagement model serves as a valuable tool to assist band design and shift calibration processes of automatic transmission systems.
+AD  - Ford Motor Co, Powertrain & Vehicle Res Lab, Dearborn, MI 48121 USA
+AD  - Ford Motor Co, Automat Transmiss Engn Off, Livonia, MI USA
+NR  - 3
+PU  - PROFESSIONAL ENGINEERING PUBLISHING LTD
+PI  - BURY ST EDMUNDS
+PA  - NORTHGATE AVENUE,, BURY ST EDMUNDS IP32 6BW, SUFFOLK, ENGLAND
+SN  - 0954-4070
+J9  - P I MECH ENG D-J AUT
+JI  - Proc. Inst. Mech. Eng. Part D-J. Automob. Eng.
+PY  - 2001
+VL  - 215
+IS  - D5
+SP  - 603
+EP  - 611
+DO  - 10.1243/0954407011528194
+AN  - WOS:000170364600004
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, X
+AU  - Tobler, W
+AU  - Zhang, Y
+AU  - Zou, Z
+ED  - Qin, DT
+ED  - Chen, XO
+ED  - Chen, BK
+ED  - Lin, C
+TI  - Performance simulation of vehicles equipped with traction drive CVTs
+T2  - PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON MECHANICAL TRANSMISSIONS
+LA  - English
+CP  - International Conference on Mechanical Transmissions (ICMT 2001)
+KW  - CVT
+KW  - traction drive
+KW  - modeling
+KW  - vehicle simulation
+AB  - This paper presents a computer model for the performance simulation of vehicles equipped with traction drive continuously variable transmissions. The model integrates the traction drive CVT subsystem into an existing overall vehicle system. The characteristics of engine output torque are formulated using neural networks, and torque converter is modeled using lookup tables. Component inputs and outputs are coupled in the dynamic equations and interfaces in the, powertrain system. The model simulation can provide evaluations of vehicle performance in driveability, fuel economy and emission levels for various drive ranges prior to the prototyping of the vehicle. As a design tool, the model assists engineers in understanding the effect of powertrain components on vehicle performance and making decisions in the selection of key design parameters. The model is implemented in the Matlab/Simulink environment. The performance simulation of a test vehicle is included in the paper as a numerical example to illustrate the effectiveness of the model.
+AD  - Ford Res Lab, Dearborn, MI 48121 USA
+NR  - 17
+PU  - CHINA MACHINE PRESS
+PI  - BEIJING
+PA  - NO 1 NANLI BAIWANZHUANG, BEIJING, PEOPLES R CHINA
+SN  - 7-900066-14-4
+PY  - 2001
+SP  - 496
+EP  - 502
+AN  - WOS:000169681100112
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, Y
+AU  - Zou, Z
+AU  - Zhang, X
+AU  - Tobler, W
+ED  - Qin, DT
+ED  - Chen, XO
+ED  - Chen, BK
+ED  - Lin, C
+TI  - Ratio response and stability of traction drive CVT control
+T2  - PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON MECHANICAL TRANSMISSIONS
+LA  - English
+CP  - International Conference on Mechanical Transmissions (ICMT 2001)
+KW  - CVT
+KW  - traction drive
+KW  - modeling
+KW  - simulation
+AB  - One of the key technical issues in the development of traction drive continuously variable transmissions is the ratio control under various vehicle operation conditions. The control system must provide quick ratio response and stability for vehicle driveability and performance. In this paper, a computer model is presented for the analysis and simulation of traction drive CVT control systems. Stability studies are performed for control systems with single or dual feedbacks. Based on the model simulation, a control strategy with dual feedbacks on both the swing and the translation of the CVT variator is found to be effective and stable. The control model is implemented using Matlab/Simulink block diagrams. The paper includes a numerical example where the ratio response of a traction drive is simulated for a preselected drive range. The simulation results confirm ratio stability and responsiveness for stepped ratio control commands.
+AD  - Univ Michigan, Dept Mech Engn, Dearborn, MI 48128 USA
+NR  - 10
+PU  - CHINA MACHINE PRESS
+PI  - BEIJING
+PA  - NO 1 NANLI BAIWANZHUANG, BEIJING, PEOPLES R CHINA
+SN  - 7-900066-14-4
+PY  - 2001
+SP  - 503
+EP  - 507
+AN  - WOS:000169681100113
+ER  -
+
+TY  - JOUR
+AU  - Tobler, W
+TI  - Linear pycnophylactic reallocation - comment on a paper by D. Martin
+T2  - INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+LA  - English
+AD  - Univ Calif Santa Barbara, Dept Geog, Santa Barbara, CA 93106 USA
+NR  - 7
+PU  - TAYLOR & FRANCIS LTD
+PI  - LONDON
+PA  - ONE GUNPOWDER SQUARE, LONDON EC4A 3DE, ENGLAND
+SN  - 1365-8816
+J9  - INT J GEOGR INF SCI
+JI  - Int. J. Geogr. Inf. Sci.
+DA  - JAN-FEB
+PY  - 1999
+VL  - 13
+IS  - 1
+SP  - 85
+EP  - 90
+DO  - 10.1080/136588199241472
+AN  - WOS:000078178100006
+ER  -
+
+TY  - JOUR
+AU  - Tobler, W
+TI  - Demography in global change studies.
+T2  - MATHEMATICAL SOCIAL SCIENCES
+LA  - English
+AD  - UNIV CALIF SANTA BARBARA, DEPT GEOG, SANTA BARBARA, CA 93106 USA
+NR  - 0
+PU  - ELSEVIER SCIENCE BV
+PI  - AMSTERDAM
+PA  - PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN  - 0165-4896
+SN  - 1879-3118
+J9  - MATH SOC SCI
+JI  - Math. Soc. Sci.
+DA  - FEB
+PY  - 1997
+VL  - 33
+IS  - 1
+SP  - 98
+EP  - 99
+AN  - WOS:A1997WX52700011
+ER  -
+
+TY  - JOUR
+AU  - Tobler, W
+TI  - Migration: Ravenstein, Thornthwaite, and beyond
+T2  - URBAN GEOGRAPHY
+LA  - English
+CP  - 90th Annual Meeting of the Association-of-American-Geographers
+KW  - TO-WORK AREAS
+KW  - LAWS
+AB  - Over one hundred years have passed since Ernst Georg Ravenstein published his ''Laws of Migration.'' This paper addresses the question of how these laws have withstood the test of time. Ravenstein's 1885 paper also includes a map of ''Currents of Migration,'' not mentioned in the text, which this article examines for its impacts on the study of migration. Warren Thornthwaite (1934) also compared migration to currents, but did not pursue this analogy in subsequent work. Others have used similar terminology, and examination of more recent migration studies suggests that they may yield new laws.
+NR  - 33
+PU  - V H WINSTON & SON INC
+PI  - PALM BEACH
+PA  - 360 SOUTH OCEAN BLVD, PH-B, PALM BEACH, FL 33480
+SN  - 0272-3638
+J9  - URBAN GEOGR
+JI  - Urban Geogr.
+DA  - MAY 16
+PY  - 1995
+VL  - 16
+IS  - 4
+SP  - 327
+EP  - 343
+DO  - 10.2747/0272-3638.16.4.327
+AN  - WOS:A1995TR74900005
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+TI  - THE RESEL-BASED GIS
+T2  - INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SYSTEMS
+LA  - English
+KW  - INTERPOLATION
+AB  - There now exist several microcomputer processing systems which incorporate algorithms and display techniques appropriate for the class of objects known as images.  Zooming, histogram equalization, contrast stretching, ratioing, edge enhancement, and filtering are common options used in these systems.  In the present discussion a system is proposed for the equivalent processing of general resolution elements (resels), instead of the homogeneous picture elements (pixels) which are found in image processing systems.  The resel processing system requires a new, generalized, repertoire of processing algorithms and a high resolution display.  A summary is provided of the facilities and procedures required, a computational metaphor using computer spreadsheets is described, and the applicability to censels (census data elements) and to medical data is suggested.
+NR  - 16
+PU  - TAYLOR & FRANCIS LTD LONDON
+PI  - LONDON
+PA  - ONE GUNDPOWDER SQUARE, LONDON, ENGLAND EC4A 3DE
+SN  - 0269-3798
+J9  - INT J GEOGR INF SYST
+JI  - Int. J. Georg. Inf. Syst.
+DA  - JAN-FEB
+PY  - 1995
+VL  - 9
+IS  - 1
+SP  - 95
+EP  - 100
+DO  - 10.1080/02693799508902027
+AN  - WOS:A1995QG18400006
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - BIDIMENSIONAL REGRESSION
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+KW  - TRANSFORMATION
+AB  - Since its invention by Francis Galton in 1877 regression analysis has been found useful in almost all disciplines. Comparison of geographic phenomena requires a two-dimensional extension of this technique. In this manner geographic maps can be compared with each other. Possible applications include geometric comparison of ancient and modern maps, or of ''mental'' maps, or for rubber-sheeting as used in Geographic Information Systems and in remote sensing. Other applications, for example, in biology for the comparison of shapes of leaves, fish, faces, or skulls after the manner of D'Arcy W. Thompson are also possible, as are higher-dimensional and multivariate cases. The method implements, and puts into this new context, existing models from the field of cartography. The linear case yields an easy definition of a Pearsonian-like correlation coefficient. The bidimensional case is richer in mathematical options than is the usual unidimensional version. The curvilinear case is of even greater utility. Here the regression coefficients constitute a spatially varying, but coordinate invariant, second-order tensor field defined by the matrix of partial derivatives of the transformation. This can be shown to be essentially equivalent to Tissot's Indicatrix, used in cartography to determine the properties of a map protection. In a computer implementation a nonparametric approach allows visualization of the regression by automatically plotting the pair of scatter diagrams, drawing of the displacement field, differentiable smooth interpolation of the warped coordinates and predicted image, by a diagram of the principal strains, and with contour maps of the estimated local angular, areal, and total distortion.
+NR  - 64
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+DA  - JUL
+PY  - 1994
+VL  - 26
+IS  - 3
+SP  - 187
+EP  - 212
+AN  - WOS:A1994NV78800002
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+TI  - PRELIMINARY REPRESENTATION OF WORLD-POPULATION BY SPHERICAL-HARMONICS
+T2  - PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA
+LA  - English
+KW  - DEMOGRAPHY
+KW  - GLOBAL CHANGE
+KW  - ORTHONORMAL FUNCTIONS
+AB  - The geographical arrangement of people on the surface of the earth is approximated by a mathematical equation of 361 terms. This is a convenient form for comparison with other distributions and for use in global change studies, and it has other advantages, but it must be considered preliminary because of data limitations.
+NR  - 14
+PU  - NATL ACAD PRESS
+PI  - WASHINGTON
+PA  - 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418
+SN  - 0027-8424
+J9  - P NATL ACAD SCI USA
+JI  - Proc. Natl. Acad. Sci. U. S. A.
+DA  - JUL 15
+PY  - 1992
+VL  - 89
+IS  - 14
+SP  - 6262
+EP  - 6264
+DO  - 10.1073/pnas.89.14.6262
+AN  - WOS:A1992JD67500008
+ER  -
+
+TY  - JOUR
+AU  - KUMLER, MP
+AU  - TOBLER, WR
+TI  - 3 WORLD MAPS ON A MOEBIUS STRIP
+T2  - CARTOGRAPHY AND GEOGRAPHIC INFORMATION SYSTEMS
+LA  - English
+NR  - 5
+PU  - AMER CONGR SURVEYING & MAPPING
+PI  - BETHESDA
+PA  - 5410 GROSVENOR LANE, BETHESDA, MD 20814
+SN  - 1050-9844
+J9  - CARTOGR GEOGR INFORM
+DA  - OCT
+PY  - 1991
+VL  - 18
+IS  - 4
+SP  - 275
+EP  - 276
+DO  - 10.1559/152304091783786781
+AN  - WOS:A1991GP40800007
+ER  -
+
+TY  - JOUR
+AU  - YANG, WC
+AU  - GLIDEWELL, JM
+AU  - TOBLER, WE
+AU  - CHUI, GK
+TI  - DYNAMIC MODELING AND ANALYSIS OF AUTOMOTIVE MULTIPORT ELECTRONIC FUEL DELIVERY SYSTEM
+T2  - JOURNAL OF DYNAMIC SYSTEMS MEASUREMENT AND CONTROL-TRANSACTIONS OF THE ASME
+LA  - English
+AB  - A dynamic model of a multi-port electronic fuel injection system, capable of analyzing fast fluid transients in the fuel, is presented.  The model consists of distributed parameter models for fuel lines and lumped parameter models for the fuel pump, pressure regulator and injectors.  Modal approximation is used to model fuel lines.  An experimental test bench has been established, and comparison of simulation and experimental results shows excellent agreement in transient characteristics.  Using this experimentally verified model, the effects of injector clogging and vapor in the fuel rail on pressure transients are examined.  A bond graph model of the total system is presented to identify the proper formulation of each subsystem model.
+AD  - FORD MOTOR CO,RES STAFF,DEARBORN,MI 48121
+NR  - 39
+PU  - ASME-AMER SOC MECHANICAL ENG
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017
+SN  - 0022-0434
+J9  - J DYN SYST-T ASME
+JI  - J. Dyn. Syst. Meas. Control-Trans. ASME
+DA  - MAR
+PY  - 1991
+VL  - 113
+IS  - 1
+SP  - 143
+EP  - 151
+DO  - 10.1115/1.2896341
+AN  - WOS:A1991HQ74300023
+ER  -
+
+TY  - JOUR
+AU  - YANG, WC
+AU  - TOBLER, WE
+TI  - DISSIPATIVE MODAL APPROXIMATION OF FLUID TRANSMISSION-LINES USING LINEAR FRICTION MODEL
+T2  - JOURNAL OF DYNAMIC SYSTEMS MEASUREMENT AND CONTROL-TRANSACTIONS OF THE ASME
+LA  - English
+AB  - For both hydraulic and pneumatic transmission lines, analytical dissipative modal approximation techniques, which take into account the frequency dependent viscosity and heat transfer effects, are developed by introducing frequency dependent damping and natural frequency modification factors to the quadratic modes obtained analytically from linear friction model. The main advantage over the existing dissipative modal approximations is that the modal parameters of the resulting modal transfer function matrices and modal state space equations can be determined analytically rather than determined by table and/or numerical computer calculations. This introduces modeling flexibilities and greatly alleviates the difficulties of modeling complex fluid networks but still maintaining the modal accuracy and complexities. Unit step response comparisons are made with quasi-method of characteristics showing good agreements for both hydraulic and pneumatic lines.
+AD  - FORD MOTOR CO, RES STAFF, DEARBORN, MI 48121 USA
+NR  - 39
+PU  - ASME
+PI  - NEW YORK
+PA  - TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN  - 0022-0434
+SN  - 1528-9028
+J9  - J DYN SYST-T ASME
+JI  - J. Dyn. Syst. Meas. Control-Trans. ASME
+DA  - MAR
+PY  - 1991
+VL  - 113
+IS  - 1
+SP  - 152
+EP  - 162
+DO  - 10.1115/1.2896342
+AN  - WOS:A1991HQ74300024
+ER  -
+
+TY  - JOUR
+AU  - HROVAT, D
+AU  - TOBLER, WE
+TI  - BOND GRAPH MODELING OF AUTOMOTIVE POWER TRAINS
+T2  - JOURNAL OF THE FRANKLIN INSTITUTE-ENGINEERING AND APPLIED MATHEMATICS
+LA  - English
+AB  - This paper starts with a development of a simple, basic bond graph model of automotive power trains.  The model contains key components needed to reproduce the dominant (shuffle) mode oscillations that are often observed in manual transmission vehicles.  The basic model is illustrated with an example and supported by experimental data.
+   Various extensions of the basic model are also considered, including four wheel drive vehicles and power trains with automatic transmissions.  The modeling extensions were facilitated by a generic bond graph structure for planetary gears, which are appropriately modified for the present tasks.  The derived models are useful for preliminary assessment of the effects of power train system/component design changes, and for power train control system design.
+NR  - 24
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN  - 0016-0032
+J9  - J FRANKLIN I
+JI  - J. Frankl. Inst.-Eng. Appl. Math.
+PY  - 1991
+VL  - 328
+IS  - 5-6
+SP  - 623
+EP  - 662
+DO  - 10.1016/0016-0032(91)90046-6
+AN  - WOS:A1991GL62200007
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+TI  - SPHERICAL QUADRILATERAL TO MAP SCALE CONVERSION
+T2  - AMERICAN CARTOGRAPHER
+LA  - English
+NR  - 1
+PU  - AMER CONGR SURVEYING & MAPPING
+PI  - BETHESDA
+PA  - 5410 GROSVENOR LANE, BETHESDA, MD 20814
+SN  - 0094-1689
+J9  - AM CARTOGRAPHER
+DA  - JAN
+PY  - 1989
+VL  - 16
+IS  - 1
+SP  - 54
+EP  - 54
+DO  - 10.1559/152304089783875640
+AN  - WOS:A1989T596700008
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - EXPERIMENTS IN MIGRATION MAPPING BY COMPUTER
+T2  - AMERICAN CARTOGRAPHER
+LA  - English
+NR  - 19
+PU  - AMER CONGR SURVEYING & MAPPING
+PI  - BETHESDA
+PA  - 5410 GROSVENOR LANE, BETHESDA, MD 20814
+SN  - 0094-1689
+J9  - AM CARTOGRAPHER
+DA  - APR
+PY  - 1987
+VL  - 14
+IS  - 2
+SP  - 155
+EP  - 163
+DO  - 10.1559/152304087783875273
+AN  - WOS:A1987H038400005
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+AU  - CHEN, Z
+TI  - A QUADTREE FOR GLOBAL INFORMATION-STORAGE
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+NR  - 36
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+DA  - OCT
+PY  - 1986
+VL  - 18
+IS  - 4
+SP  - 360
+EP  - 371
+AN  - WOS:A1986E330300007
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - POLYCYLINDRIC MAP PROJECTIONS
+T2  - AMERICAN CARTOGRAPHER
+LA  - English
+NR  - 2
+PU  - AMER CONGR SURVEYING & MAPPING
+PI  - BETHESDA
+PA  - 5410 GROSVENOR LANE, BETHESDA, MD 20814
+SN  - 0094-1689
+J9  - AM CARTOGRAPHER
+DA  - APR
+PY  - 1986
+VL  - 13
+IS  - 2
+SP  - 117
+EP  - 120
+DO  - 10.1559/152304086783900040
+AN  - WOS:A1986C194900002
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - MEASURING THE SIMILARITY OF MAP PROJECTIONS
+T2  - AMERICAN CARTOGRAPHER
+LA  - English
+NR  - 12
+PU  - AMER CONGR SURVEYING & MAPPING
+PI  - BETHESDA
+PA  - 5410 GROSVENOR LANE, BETHESDA, MD 20814
+SN  - 0094-1689
+J9  - AM CARTOGRAPHER
+DA  - APR
+PY  - 1986
+VL  - 13
+IS  - 2
+SP  - 135
+EP  - 139
+DO  - 10.1559/152304086783900103
+AN  - WOS:A1986C194900004
+ER  -
+
+TY  - JOUR
+AU  - WELEBER, RG
+AU  - TOBLER, WR
+TI  - COMPUTERIZED QUANTITATIVE-ANALYSIS OF KINETIC VISUAL-FIELDS
+T2  - AMERICAN JOURNAL OF OPHTHALMOLOGY
+LA  - English
+AD  - OREGON HLTH SCI UNIV,DEPT MED GENET,PORTLAND,OR 97201
+FU  - NATIONAL CENTER FOR RESEARCH RESOURCESUnited States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Center for Research Resources (NCRR) [S07RR005412] Funding Source: NIH RePORTER; NCRR NIH HHSUnited States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Center for Research Resources (NCRR) [S07 RR05412] Funding Source: Medline
+NR  - 14
+PU  - OPHTHALMIC PUBL CO
+PI  - CHICAGO
+PA  - 77 WEST WACKER DR, STE 660, CHICAGO, IL 60601
+SN  - 0002-9394
+J9  - AM J OPHTHALMOL
+JI  - Am. J. Ophthalmol.
+DA  - APR
+PY  - 1986
+VL  - 101
+IS  - 4
+SP  - 461
+EP  - 468
+DO  - 10.1016/0002-9394(86)90648-3
+AN  - WOS:A1986A897300011
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - PSEUDO-CARTOGRAMS
+T2  - AMERICAN CARTOGRAPHER
+LA  - English
+NR  - 14
+PU  - AMER CONGR SURVEYING & MAPPING
+PI  - BETHESDA
+PA  - 5410 GROSVENOR LANE, BETHESDA, MD 20814
+SN  - 0094-1689
+J9  - AM CARTOGRAPHER
+DA  - JAN
+PY  - 1986
+VL  - 13
+IS  - 1
+SP  - 43
+EP  - 50
+DO  - 10.1559/152304086783900194
+AN  - WOS:A1986A167200003
+ER  -
+
+TY  - JOUR
+AU  - HROVAT, D
+AU  - TOBLER, WE
+TI  - BOND GRAPH MODELING AND COMPUTER-SIMULATION OF AUTOMOTIVE TORQUE CONVERTERS
+T2  - JOURNAL OF THE FRANKLIN INSTITUTE-ENGINEERING AND APPLIED MATHEMATICS
+LA  - English
+NR  - 14
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN  - 0016-0032
+J9  - J FRANKLIN I
+JI  - J. Frankl. Inst.-Eng. Appl. Math.
+PY  - 1985
+VL  - 319
+IS  - 1-2
+SP  - 93
+EP  - 114
+DO  - 10.1016/0016-0032(85)90067-5
+AN  - WOS:A1985AEZ2400008
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+TI  - DERIVATION OF A SPATIALLY CONTINUOUS TRANSPORTATION MODEL
+T2  - TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE
+LA  - English
+NR  - 9
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN  - 0965-8564
+J9  - TRANSPORT RES A-POL
+JI  - Transp. Res. Pt. A-Policy Pract.
+PY  - 1985
+VL  - 19
+IS  - 2
+SP  - 169
+EP  - 172
+DO  - 10.1016/0191-2607(85)90024-X
+AN  - WOS:A1985AMY3200007
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+AU  - KENNEDY, S
+TI  - SMOOTH MULTIDIMENSIONAL INTERPOLATION
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+NR  - 32
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1985
+VL  - 17
+IS  - 3
+SP  - 251
+EP  - 257
+AN  - WOS:A1985AMR6200007
+ER  -
+
+TY  - JOUR
+AU  - HROVAT, D
+AU  - TOBLER, WE
+TI  - BOND GRAPH MODELING OF AUTOMOTIVE TORQUE CONVERTERS
+T2  - MECHANICAL ENGINEERING
+LA  - English
+AD  - FORD MOTOR CO,DEARBORN,MI 48121
+NR  - 0
+PU  - ASME-AMER SOC MECHANICAL ENG
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017
+SN  - 0025-6501
+J9  - MECH ENG
+JI  - Mech. Eng.
+PY  - 1984
+VL  - 106
+IS  - 2
+SP  - 91
+EP  - 91
+AN  - WOS:A1984SM47200102
+ER  -
+
+TY  - JOUR
+AU  - PETRICH, M
+AU  - TOBLER, W
+TI  - THE GLOBULAR PROJECTION GENERALIZED
+T2  - AMERICAN CARTOGRAPHER
+LA  - English
+AD  - UNIV CALIF SANTA BARBARA,DEPT GEOG,SANTA BARBARA,CA 93106
+NR  - 4
+PU  - AMER CONGR SURVEYING & MAPPING
+PI  - BETHESDA
+PA  - 5410 GROSVENOR LANE, BETHESDA, MD 20814
+SN  - 0094-1689
+J9  - AM CARTOGRAPHER
+PY  - 1984
+VL  - 11
+IS  - 2
+SP  - 101
+EP  - 105
+DO  - 10.1559/152304084783914803
+AN  - WOS:A1984TP37700001
+ER  -
+
+TY  - JOUR
+AU  - DORIGO, G
+AU  - TOBLER, W
+TI  - PUSH-PULL MIGRATION LAWS
+T2  - ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+LA  - English
+AD  - UNIV CALIF SANTA BARBARA, DEPT GEOG, SANTA BARBARA, CA 93106 USA
+NR  - 100
+PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 0004-5608
+SN  - 1467-8306
+J9  - ANN ASSOC AM GEOGR
+JI  - Ann. Assoc. Am. Geogr.
+PY  - 1983
+VL  - 73
+IS  - 1
+SP  - 1
+EP  - 17
+DO  - 10.1111/j.1467-8306.1983.tb01392.x
+AN  - WOS:A1983QG00100001
+ER  -
+
+TY  - JOUR
+AU  - GALE, N
+AU  - HUBERT, LJ
+AU  - TOBLER, WR
+AU  - GOLLEDGE, RG
+TI  - COMBINATORIAL PROCEDURES FOR THE ANALYSIS OF ALTERNATE MODELS - AN EXAMPLE FROM INTERREGIONAL MIGRATION
+T2  - PAPERS OF THE REGIONAL SCIENCE ASSOCIATION
+LA  - English
+AD  - UNIV CALIF SANTA BARBARA,GRAD SCH EDUC,SANTA BARBARA,CA 93106
+NR  - 23
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN  - 0486-2902
+J9  - PAP REG SCI ASSOC
+PY  - 1983
+VL  - 53
+SP  - 105
+EP  - 115
+DO  - 10.1007/BF01939921
+AN  - WOS:A1983ACE0300007
+ER  -
+
+TY  - JOUR
+AU  - KENNEDY, S
+AU  - TOBLER, WR
+TI  - GEOGRAPHIC INTERPOLATION
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+NR  - 0
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1983
+VL  - 15
+IS  - 2
+SP  - 151
+EP  - 156
+AN  - WOS:A1983QL64400006
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+TI  - AN ALTERNATIVE FORMULATION FOR SPATIAL-INTERACTION MODELING
+T2  - ENVIRONMENT AND PLANNING A
+LA  - English
+NR  - 19
+PU  - PION LTD
+PI  - LONDON
+PA  - 207 BRONDESBURY PARK, LONDON, ENGLAND NW2 5JN
+SN  - 0308-518X
+J9  - ENVIRON PLANN A
+JI  - Environ. Plan. A
+PY  - 1983
+VL  - 15
+IS  - 5
+SP  - 693
+EP  - 703
+DO  - 10.1068/a150693
+AN  - WOS:A1983QS40300009
+ER  -
+
+TY  - JOUR
+AU  - GOLLEDGE, RG
+AU  - CHURCH, R
+AU  - DOZIER, J
+AU  - ESTES, JE
+AU  - MICHAELSEN, J
+AU  - SIMONETT, DS
+AU  - SMITH, R
+AU  - SMITH, T
+AU  - STRAHLER, AH
+AU  - TOBLER, WR
+TI  - COMMENTARY ON THE HIGHEST FORM OF THE GEOGRAPHERS ART
+T2  - ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+LA  - English
+NR  - 1
+PU  - BLACKWELL PUBLISHERS
+PI  - CAMBRIDGE
+PA  - 350 MAIN STREET, STE 6, CAMBRIDGE, MA 02148-5023
+SN  - 0004-5608
+J9  - ANN ASSOC AM GEOGR
+JI  - Ann. Assoc. Am. Geogr.
+PY  - 1982
+VL  - 72
+IS  - 4
+SP  - 557
+EP  - 558
+DO  - 10.1111/j.1467-8306.1982.tb01848.x
+AN  - WOS:A1982PU66500012
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+TI  - DEPICTING FEDERAL FISCAL TRANSFERS
+T2  - PROFESSIONAL GEOGRAPHER
+LA  - English
+NR  - 13
+PU  - BLACKWELL PUBLISHERS
+PI  - CAMBRIDGE
+PA  - 350 MAIN STREET, STE 6, CAMBRIDGE, MA 02148-5023
+SN  - 0033-0124
+J9  - PROF GEOGR
+JI  - Prof. Geogr.
+PY  - 1981
+VL  - 33
+IS  - 4
+SP  - 419
+EP  - 422
+DO  - 10.1111/j.0033-0124.1981.00419.x
+AN  - WOS:A1981MR64200004
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - A MODEL OF GEOGRAPHICAL MOVEMENT
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+NR  - 36
+PU  - WILEY-BLACKWELL
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0016-7363
+SN  - 1538-4632
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1981
+VL  - 13
+IS  - 1
+SP  - 1
+EP  - 20
+DO  - 10.1111/j.1538-4632.1981.tb00711.x
+AN  - WOS:A1981LA95000001
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+AU  - LAU, J
+TI  - INTERPOLATION OF IMAGES VIA HISTOSPLINES
+T2  - COMPUTER GRAPHICS AND IMAGE PROCESSING
+LA  - English
+NR  - 0
+PU  - ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI  - SAN DIEGO
+PA  - 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN  - 0148-664X
+J9  - COMPUT VISION GRAPH
+PY  - 1979
+VL  - 9
+IS  - 1
+SP  - 77
+EP  - 81
+DO  - 10.1016/0146-664X(79)90084-4
+AN  - WOS:A1979GG28300006
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - ESTIMATION OF ATTRACTIVITIES FROM INTERACTIONS
+T2  - ENVIRONMENT AND PLANNING A
+LA  - English
+NR  - 20
+PU  - PION LTD
+PI  - LONDON
+PA  - 207 BRONDESBURY PARK, LONDON, ENGLAND NW2 5JN
+SN  - 0308-518X
+J9  - ENVIRON PLANN A
+JI  - Environ. Plan. A
+PY  - 1979
+VL  - 11
+IS  - 2
+SP  - 121
+EP  - 127
+DO  - 10.1068/a110121
+AN  - WOS:A1979GQ04300001
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - LATTICE TUNING
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+NR  - 32
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1979
+VL  - 11
+IS  - 1
+SP  - 36
+EP  - 44
+AN  - WOS:A1979GJ42700003
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - SMOOTH PYCNOPHYLACTIC INTERPOLATION FOR GEOGRAPHICAL REGIONS
+T2  - JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION
+LA  - English
+NR  - 53
+PU  - AMER STATISTICAL ASSOC
+PI  - ALEXANDRIA
+PA  - 732 N WASHINGTON ST, ALEXANDRIA, VA 22314-1943 USA
+SN  - 0162-1459
+SN  - 1537-274X
+J9  - J AM STAT ASSOC
+JI  - J. Am. Stat. Assoc.
+PY  - 1979
+VL  - 74
+IS  - 367
+SP  - 519
+EP  - 530
+DO  - 10.2307/2286968
+AN  - WOS:A1979HS22400001
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - SMOOTH PYCNOPHYLACTIC INTERPOLATION FOR GEOGRAPHICAL REGIONS - REJOINDER
+T2  - JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION
+LA  - English
+NR  - 5
+PU  - AMER STATISTICAL ASSOC
+PI  - ALEXANDRIA
+PA  - 1429 DUKE ST, ALEXANDRIA, VA 22314
+SN  - 0162-1459
+J9  - J AM STAT ASSOC
+JI  - J. Am. Stat. Assoc.
+PY  - 1979
+VL  - 74
+IS  - 367
+SP  - 535
+EP  - 536
+DO  - 10.2307/2286970
+AN  - WOS:A1979HS22400003
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+AU  - LAU, J
+TI  - ISOPLETH MAPPING USING HISTOSPLINES
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+AD  - UNIV MICHIGAN, ANN ARBOR, MI 48104 USA
+NR  - 21
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0016-7363
+SN  - 1538-4632
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1978
+VL  - 10
+IS  - 3
+SP  - 273
+EP  - 279
+AN  - WOS:A1978FJ18800006
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - MATHEMATICAL-THEORY OF MIGRATION - INTRODUCTION
+T2  - ENVIRONMENT AND PLANNING A
+LA  - English
+NR  - 9
+PU  - PION LTD
+PI  - LONDON
+PA  - 207 BRONDESBURY PARK, LONDON, ENGLAND NW2 5JN
+SN  - 0308-518X
+J9  - ENVIRON PLANN A
+JI  - Environ. Plan. A
+PY  - 1978
+VL  - 10
+IS  - 11
+SP  - 1223
+EP  - 1224
+DO  - 10.1068/a101223
+AN  - WOS:A1978GA54300001
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - COMPARISON OF PLANE FORMS
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+NR  - 24
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1978
+VL  - 10
+IS  - 2
+SP  - 154
+EP  - 162
+AN  - WOS:A1978EX40600004
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+TI  - SPATIAL INTERACTION PATTERNS
+T2  - JOURNAL OF ENVIRONMENTAL SYSTEMS
+LA  - English
+AD  - UNIV MICHIGAN,DEPT GEOG,ANN ARBOR,MI 48109
+NR  - 37
+PU  - BAYWOOD PUBL CO INC
+PI  - AMITYVILLE
+PA  - 26 AUSTIN AVE, AMITYVILLE, NY 11701
+SN  - 0047-2433
+J9  - J ENVIRON SYST
+PY  - 1977
+VL  - 6
+IS  - 4
+SP  - 271
+EP  - 301
+AN  - WOS:A1977DF06300001
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - PRELIMINARY ANALYSIS OF SPREAD OF DEPRESSION
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+AD  - UNIV MICHIGAN,ANN ARBOR,MI 48104
+NR  - 18
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1975
+VL  - 7
+IS  - 4
+SP  - 427
+EP  - 434
+AN  - WOS:A1975AY91000006
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - INTRODUCTION TO SPECTRAL ANALYSIS - RAYNER,JN
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+AD  - UNIV MICHIGAN,ANN ARBOR,MI 48104
+NR  - 1
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1973
+VL  - 5
+IS  - 2
+SP  - 164
+EP  - 165
+AN  - WOS:A1973P407000008
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - CHOROPLETH MAPS WITHOUT CLASS INTERVALS
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+AD  - UNIV MICHIGAN,ANN ARBOR,MI 48104
+NR  - 17
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1973
+VL  - 5
+IS  - 3
+SP  - 262
+EP  - 265
+AN  - WOS:A1973Q268100005
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - HYPERELLIPTICAL AND OTHER NEW PSEUDO-CYLINDRICAL EQUAL-AREA MAP PROJECTIONS
+T2  - TRANSACTIONS-AMERICAN GEOPHYSICAL UNION
+LA  - English
+AD  - UNIV MICHIGAN,DEPT GEOG,ANN ARBOR,MI 48104
+NR  - 0
+PU  - AMER GEOPHYSICAL UNION
+PI  - WASHINGTON
+PA  - 2000 FLORIDA AVE NW, WASHINGTON, DC 20009
+SN  - 0002-8606
+J9  - EOS T AM GEOPHYS UN
+PY  - 1973
+VL  - 54
+IS  - 2
+SP  - 111
+EP  - 111
+AN  - WOS:A1973O773500027
+ER  -
+
+TY  - JOUR
+AU  - MOELLERING, H
+AU  - TOBLER, W
+TI  - GEOGRAPHICAL VARIANCES
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+AD  - HIGHWAY SAFETY RES INST, WASHINGTON, DC USA
+AD  - UNIV MICHIGAN, ANN ARBOR, MI USA
+NR  - 25
+PU  - WILEY-BLACKWELL
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0016-7363
+SN  - 1538-4632
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1972
+VL  - 4
+IS  - 1
+SP  - 34
+EP  - 50
+AN  - WOS:A1972Z098900002
+ER  -
+
+TY  - JOUR
+AU  - BARTON, B
+AU  - TOBLER, W
+TI  - SPECTRAL ANALYSIS OF INNOVATION DIFFUSION
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+AD  - UNIV MICHIGAN,ANN ARBOR,MI
+NR  - 15
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1971
+VL  - 3
+IS  - 2
+SP  - 182
+EP  - &
+AN  - WOS:A1971Y057300007
+ER  -
+
+TY  - JOUR
+AU  - GLASS, L
+AU  - TOBLER, WR
+TI  - UNIFORM DISTRIBUTION OF OBJECTS IN A HOMOGENEOUS FIELD - CITIES ON A PLAIN
+T2  - NATURE
+LA  - English
+NR  - 12
+PU  - NATURE PUBLISHING GROUP
+PI  - LONDON
+PA  - MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN  - 0028-0836
+SN  - 1476-4687
+J9  - NATURE
+JI  - Nature
+PY  - 1971
+VL  - 233
+IS  - 5314
+SP  - 67
+EP  - +
+DO  - 10.1038/233067a0
+AN  - WOS:A1971K216200042
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+AU  - WINEBURG, S
+TI  - CAPPADOCIAN SPECULATION
+T2  - NATURE
+LA  - English
+NR  - 17
+PU  - MACMILLAN MAGAZINES LTD
+PI  - LONDON
+PA  - PORTERS SOUTH, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN  - 0028-0836
+J9  - NATURE
+JI  - Nature
+PY  - 1971
+VL  - 231
+IS  - 5297
+SP  - 39
+EP  - &
+DO  - 10.1038/231039a0
+AN  - WOS:A1971J198300031
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+AU  - MIELKE, HW
+AU  - DETWYLER, TR
+TI  - GEOBOTANICAL DISTANCE BETWEEN NEW-ZEALAND AND NEIGHBORING ISLANDS
+T2  - BIOSCIENCE
+LA  - English
+NR  - 28
+PU  - AMER INST BIOLOGICAL SCI
+PI  - WASHINGTON
+PA  - 1444 EYE ST, NW, STE 200, WASHINGTON, DC 20005
+SN  - 0006-3568
+J9  - BIOSCIENCE
+JI  - Bioscience
+PY  - 1970
+VL  - 20
+IS  - 9
+SP  - 537
+EP  - &
+DO  - 10.2307/1295012
+AN  - WOS:A1970G116800006
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - COMPUTER MOVIE SIMULATING URBAN GROWTH IN DETROIT REGION
+T2  - ECONOMIC GEOGRAPHY
+LA  - English
+AD  - UNIV MICHIGAN,ANN ARBOR,MI
+NR  - 36
+PU  - ECONOMIC GEOGRAPHY
+PI  - WORCESTER
+PA  - CLARK UNIV, WORCESTER, MA 01610
+SN  - 0013-0095
+J9  - ECON GEOGR
+JI  - Econ. Geogr.
+PY  - 1970
+VL  - 46
+IS  - 2
+SP  - 234
+EP  - 240
+DO  - 10.2307/143141
+AN  - WOS:A1970Y186900003
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - URBAN DYNAMICS - FORRESTER,JW
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+AD  - UNIV MICHIGAN,ANN ARBOR,MI
+NR  - 1
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1970
+VL  - 2
+IS  - 2
+SP  - 198
+EP  - 199
+AN  - WOS:A1970Y111500010
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - GEOGRAPHICAL FILTERS AND THEIR INVERSES
+T2  - GEOGRAPHICAL ANALYSIS
+LA  - English
+AD  - UNIV MICHIGAN,ANN ARBOR,MI
+NR  - 59
+PU  - OHIO STATE UNIV PRESS
+PI  - COLUMBUS
+PA  - 1050 CARMACK RD, COLUMBUS, OH 43210
+SN  - 0016-7363
+J9  - GEOGR ANAL
+JI  - Geogr. Anal.
+PY  - 1969
+VL  - 1
+IS  - 3
+SP  - 234
+EP  - 253
+AN  - WOS:A1969Y593300003
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - COMPUTER USE IN GEOGRAPHY
+T2  - BEHAVIORAL SCIENCE
+LA  - English
+NR  - 1
+PU  - INT SOC SYSTEMS SCIENCE
+PI  - BALTIMORE
+PA  - 428 EAST PRESTON ST, BALTIMORE, MD 21202
+SN  - 0005-7940
+J9  - BEHAV SCI
+JI  - Behav. Sci.
+PY  - 1967
+VL  - 12
+IS  - 1
+SP  - 57
+EP  - &
+AN  - WOS:A19678872400007
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - MAPS AND MATRICES
+T2  - JOURNAL OF REGIONAL SCIENCE
+LA  - English
+AD  - UNIV MICHIGAN,DEPT GEOG,ANN ARBOR,MI
+NR  - 11
+PU  - BLACKWELL PUBLISHERS
+PI  - MALDEN
+PA  - 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN  - 0022-4146
+J9  - J REGIONAL SCI
+JI  - J. Reg. Sci.
+PY  - 1967
+VL  - 7
+IS  - 2
+SP  - 275
+EP  - 280
+AN  - WOS:A1967ZG31500005
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - MEDIEVAL DISTORTIONS - PROJECTIONS OF ANCIENT MAPS
+T2  - ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+LA  - English
+AD  - UNIV MICHIGAN,ANN ARBOR,MI
+NR  - 22
+PU  - BLACKWELL PUBLISHERS
+PI  - MALDEN
+PA  - 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN  - 0004-5608
+J9  - ANN ASSOC AM GEOGR
+JI  - Ann. Assoc. Am. Geogr.
+PY  - 1966
+VL  - 56
+IS  - 2
+SP  - 351
+EP  - 360
+DO  - 10.1111/j.1467-8306.1966.tb00562.x
+AN  - WOS:A1966ZH15800011
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - A COMPARISON OF SPHERICAL AND ELLIPSOIDAL MEASURES
+T2  - PROFESSIONAL GEOGRAPHER
+LA  - English
+NR  - 5
+PU  - BLACKWELL PUBLISHERS
+PI  - MALDEN
+PA  - 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN  - 0033-0124
+J9  - PROF GEOGR
+JI  - Prof. Geogr.
+PY  - 1964
+VL  - 16
+IS  - 4
+SP  - 9
+EP  - 12
+DO  - 10.1111/j.0033-0124.1964.009_q.x
+AN  - WOS:A1964CBV2500003
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - MAP PROJECTION RESEARCH BY DIGITAL-COMPUTER
+T2  - ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+LA  - English
+NR  - 0
+PU  - BLACKWELL PUBLISHERS
+PI  - MALDEN
+PA  - 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN  - 0004-5608
+J9  - ANN ASSOC AM GEOGR
+JI  - Ann. Assoc. Am. Geogr.
+PY  - 1963
+VL  - 53
+IS  - 4
+SP  - 625
+EP  - 625
+AN  - WOS:A1963CLK1700142
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - GEOGRAPHIC AREA AND MAP PROJECTIONS
+T2  - GEOGRAPHICAL REVIEW
+LA  - English
+NR  - 35
+PU  - AMER GEOGRAPHICAL SOC
+PI  - NEW YORK
+PA  - 120 WALL ST, STE 100, NEW YORK, NY 10005
+SN  - 0016-7428
+J9  - GEOGR REV
+JI  - Geogr. Rev.
+PY  - 1963
+VL  - 53
+IS  - 1
+SP  - 59
+EP  - 78
+DO  - 10.2307/212809
+AN  - WOS:A1963CBE7300005
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - A CLASSIFICATION OF MAP PROJECTIONS
+T2  - ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+LA  - English
+NR  - 17
+PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 0004-5608
+SN  - 1467-8306
+J9  - ANN ASSOC AM GEOGR
+JI  - Ann. Assoc. Am. Geogr.
+PY  - 1962
+VL  - 52
+IS  - 2
+SP  - 167
+EP  - 175
+DO  - 10.1111/j.1467-8306.1962.tb00403.x
+AN  - WOS:A1962CGJ6200004
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - THE POLAR CASE OF HAMMERS PROJECTION
+T2  - PROFESSIONAL GEOGRAPHER
+LA  - English
+NR  - 5
+PU  - BLACKWELL PUBLISHERS
+PI  - MALDEN
+PA  - 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN  - 0033-0124
+J9  - PROF GEOGR
+JI  - Prof. Geogr.
+PY  - 1962
+VL  - 14
+IS  - 2
+SP  - 20
+EP  - 22
+DO  - 10.1111/j.0033-0124.1962.142_20.x
+AN  - WOS:A1962CBV2100007
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - IMPLICATIONS OF RECENT INNOVATION IN CARTOGRAPHY
+T2  - ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+LA  - English
+NR  - 0
+PU  - BLACKWELL PUBLISHERS
+PI  - MALDEN
+PA  - 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN  - 0004-5608
+J9  - ANN ASSOC AM GEOGR
+JI  - Ann. Assoc. Am. Geogr.
+PY  - 1961
+VL  - 51
+IS  - 4
+SP  - 425
+EP  - 426
+AN  - WOS:A1961CBD9400070
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - PROJECTION PITFALLS
+T2  - ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+LA  - English
+NR  - 1
+PU  - BLACKWELL PUBLISHERS
+PI  - MALDEN
+PA  - 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN  - 0004-5608
+J9  - ANN ASSOC AM GEOGR
+JI  - Ann. Assoc. Am. Geogr.
+PY  - 1960
+VL  - 50
+IS  - 1
+SP  - 58
+EP  - 58
+DO  - 10.1111/j.1467-8306.1960.tb00331.x
+AN  - WOS:A1960CBD8700007
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, WR
+TI  - AUTOMATION AND CARTOGRAPHY
+T2  - GEOGRAPHICAL REVIEW
+LA  - English
+NR  - 14
+PU  - AMER GEOGRAPHICAL SOC
+PI  - NEW YORK
+PA  - 120 WALL ST, STE 100, NEW YORK, NY 10005
+SN  - 0016-7428
+J9  - GEOGR REV
+JI  - Geogr. Rev.
+PY  - 1959
+VL  - 49
+IS  - 4
+SP  - 526
+EP  - 534
+DO  - 10.2307/212211
+AN  - WOS:A1959CBE6100005
+ER  -
+
+TY  - JOUR
+AU  - SHERMAN, JC
+AU  - TOBLER, WR
+TI  - MULTIPLE USE CONCEPT IN CARTOGRAPHY
+T2  - PROFESSIONAL GEOGRAPHER
+LA  - English
+NR  - 0
+PU  - BLACKWELL PUBLISHERS
+PI  - MALDEN
+PA  - 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN  - 0033-0124
+J9  - PROF GEOGR
+JI  - Prof. Geogr.
+PY  - 1957
+VL  - 9
+IS  - 5
+SP  - 5
+EP  - 8
+DO  - 10.1111/j.0033-0124.1957.095_5.x
+AN  - WOS:A1957CGJ9000002
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+TI  - THE PROPHYLAXIS OF INTERSTITIAL PNEUMONIA BY CONTINUOUS ULTRA-VIOLET IRRADIATION
+T2  - ANNALES PAEDIATRICI
+LA  - French
+NR  - 6
+PU  - WILLIAMS & WILKINS
+PI  - BALTIMORE
+PA  - 351 WEST CAMDEN ST, BALTIMORE, MD 21201-2436
+J9  - ANN PAEDIATR-BASEL
+PY  - 1956
+VL  - 187
+IS  - 3
+SP  - 284
+EP  - 285
+AN  - WOS:A1956WT95000016
+ER  -
+
+TY  - JOUR
+AU  - TOBLER, W
+AU  - COTTIER, H
+TI  - ZUR KLINIK DES SOG - COR TRIATRIATUM SINISTRUM
+T2  - ANNALES PAEDIATRICI
+LA  - English
+NR  - 0
+PU  - WILLIAMS & WILKINS
+PI  - BALTIMORE
+PA  - 351 WEST CAMDEN ST, BALTIMORE, MD 21201-2436
+J9  - ANN PAEDIATR-BASEL
+PY  - 1956
+VL  - 186
+IS  - 2
+SP  - 125
+EP  - 125
+AN  - WOS:A1956WT23600025
+ER  -
+
