@@ -23,6 +23,7 @@ Le petit fichier word et pdf d'analyse exploratoire comprend des captures d'écr
 
 Hypothèse : la base Zotero recense normalement toutes les publications de Tobler (hypothèse), même les preprints, et diverses formes de communication (powerpoints, figures). 
 Anne-Christine a aspiré les notices bibliographiques dans zotero depuis la base crossref par les doi. Mais crossref est moins complète que scopus qui permet d'avoir en plus les affiliations. 
+NB : L'export au format csv zotero perd les liens connexes, or les différents "produits" du corpus sont pour partie liés entre eux (des images ou des présentations liés à des publis). Il faudra les reprendre.
 
 Cette base a été précédemment travaillée par Colette Cauvin (CC) qui a ajouté les éléments suivants : 
 - **Call number** : *CC4* par exemple qui indique le lieu de rangement du papier dans les archives de CC
