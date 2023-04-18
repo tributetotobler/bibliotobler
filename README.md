@@ -21,20 +21,17 @@ Le petit fichier word et pdf d'analyse exploratoire comprend des captures d'écr
 
 # 4. Méthode de travail
 
-Hypothèse : la base Zotero recense normalement toutes les publications de Tobler (hypothèse), même les preprints, et diverses formes de communication (powerpoints, figures). 
-Anne-Christine a aspiré les notices bibliographiques dans zotero depuis la base crossref par les doi. Mais crossref est moins complète que scopus qui permet d'avoir en plus les affiliations. 
-NB : L'export au format csv zotero perd les liens connexes, or les différents "produits" du corpus sont pour partie liés entre eux (des images ou des présentations liés à des publis). Il faudra les reprendre.
+Hypothèse : la base Zotero *work in progress* a pour objetif le recensement de tous les travaux de Tobler, même les preprints, et diverses formes de communication (powerpoints, figures, rapports, logiciels...). La base de cette collection est un recensement des travaux par Colette Cauvin (tableau excel) qui, lors du passage dans zotero a été complété tant au niveau des références connues (doi, url, etc.) que par des références complémentaires trouvées lors de ce travail de saisie (par Colette Cauvin et Anne-Christine Bronner. L'utilisation des "connexes" permet de mettre en lien différents travaux.
+NB : L'export au format csv zotero perd les liens connexes, or les différents "produits" du corpus sont pour partie liés entre eux (des images ou des présentations liés à des publis, des rapports et des articles...).
 
-Cette base a été précédemment travaillée par Colette Cauvin (CC) qui a ajouté les éléments suivants : 
-- **Call number** : *CC4* par exemple qui indique le lieu de rangement du papier dans les archives de CC
-- **Extra** : indique parfois la cote de rangement du papier dans les archives de CC
+La base intiale de Colette Cauvin (CC) est présente par les côtes et TAGS, ainsi que des résumés en français : 
+- **Call number** : CC suivi d'un numéro indique le lieu de rangement du papier dans les archives de CC
 - **Notes** : des résumés personnels de CC. (qui contiennent alors la mention *Résumé C. Reymond-Cauvin*) ou bien des remarques concernant le document et sa présence/absence dans le stuff.
 - **Manual Tags** : marqueurs, qui sont de 2 catégories
-  - un pour indiquer l'emplacement du fichier dans les archives de CC, et il commence par *Loc* toujours. Le marqueur  particulier **LocCC-ABS** indique que le papier n'est pas actuellement trouvé en format PDF (vérifier dans le stuff ? vérifier sur le Web ?). 
-  - plusieurs autres séparés par des points-virgule (4 max) pour situer le thème général de l'article d'après CC 
+  - un pour indiquer l'emplacement du fichier dans les archives de CC, et il commence par *Loc* toujours. Le marqueur  particulier **LocCC-ABS** indique que le papier n'existe pas a priori. 
+  - CC- permet classe le papier dans différentes thématique (classification de C. Cauvin)
 
-
-Pour les documents sous format papier ou PDF scanné uniquement, nous pourrons nous appuyer sur le projet [paperETL](https://github.com/neuml/paperetl/) et les outils d'humanum qui dispose d'un service en ligne pour l'ocerisation de PDF.
+Pour les quelques documents qui n'existeraient que sous format papier ou PDF image scanné, nous pourrons nous appuyer sur le projet [paperETL](https://github.com/neuml/paperetl/) et les outils d'humanum qui dispose d'un service en ligne pour l'ocerisation de PDF. 
 
 Voici la chaîne de traitement pour extraire assez facilement les résumés des papiers dont nous disposerons dans ce cas : 
 ```
@@ -60,7 +57,7 @@ Les metadonnées contiennent les champs suivants
 ### 4.1.1. Constitution de la base de données
 
 
-Proposition : avant de nettoyer une base de données, d'abord collecter toutes les données de chaque source dans un fichier ASCII différent. Chaque source (Zotero, scopus, paperETL et wos) doivent être alignées par la suite pour leur comparaison et l'examen des manquants, des doublons ou des informations contradictoires : quel champs correspond entre chaque base ?
+Proposition : avant de nettoyer une base de données, d'abord collecter toutes les données de chaque source dans un fichier ASCII différent. Chaque source (Zotero, scopus, paperETL et wos) doivent être alignées par la suite pour leur comparaison et l'examen des manquants, des "vrais" doublons ou des informations contradictoires : quel champs correspond entre chaque base ?
 
 1. Exporter la base **zotero** en fichier csv : `data/Zotero_Tobler.csv`
 2. Interroger **scopus** pour in fine compléter la base Zotero : `data/scopus.csv`
@@ -73,7 +70,7 @@ Proposition : avant de nettoyer une base de données, d'abord collecter toutes l
    -  `data/papersETLdata.csv` 
    -  `data/papersETLdata.sqlite`
 9. Analyser les divergences entre bases. Créer une base harmonisée. 
-10. Vérifier qu'il n'existe pas non plus des docs dans stuff absents de zotero
+10. Note : sur les 1944 documents du Stuff, seuls 155 sont recensés dans zotero.
 
 
 Les exports de **papersETLdata** proposent des métadonnées qui sont exportés dans ces colonnes : 
@@ -119,14 +116,45 @@ La base harmonisée peut s'appeler 'zotero_harmonised' et contiendra en plus les
 - Les mutations des idées de Tobler durant sa vie et ensuite ? 
 
 #### 4.1.2.1. liste des tags manuels de - CC
+Les tags présents dans la base ont été aspirés lors de l'entrée dans la base, à l'excpetion des tags CC (localisation et thématique) et du tag STUFF qui fait le lien entre les documents du Stuff et zotero.
 
- ⛔ No DOI found : quand le DOI n'a pu être trouvé
-
-Ils doivent aussi être dédoublonnés
-
+**tag généré automatiquement**
+ ⛔ No DOI found : quand le DOI n'a pu être trouvé : 
 - azimuthal directions
 - Azimuthal projections
 - Bivariate interpolation
+- computer cartography
+- classification
+- Density estimation
+- density smoothing
+- Dirichlet integral
+- distance
+- equal area maps
+- geographic movement
+- geographical movement
+- Helmholz equation
+- interruption
+- LEAST SQUARES
+- MAP COMPARISON
+- map projections
+- Migrations
+- migration theory
+- Numerical methods
+- Numerical methods
+- Population density
+- quadratic programming
+- quadratic programming
+- simplifying coordinates
+- simplifying coordinates
+- spatial interaction
+- thematic maps
+- uniformizing maps
+- world maps
+
+Ils doivent aussi être dédoublonnés
+
+Tags CC (localisation et thématique)
+
 - CC-Analyse spatiale
 - CC-Analyse_surface
 - CC-Anamorphose (sauf cartogramme)
@@ -148,6 +176,7 @@ Ils doivent aussi être dédoublonnés
 - CC-Lois géographiques
 - CC-Migration, Flux
 - CC-Modelisation (mouvement)
+- CC-Modelisation mathématique
 - CC-Mouvement et Migration
 - CC-Mouvements
 - CC-Photointerprétation
@@ -157,50 +186,4 @@ Ils doivent aussi être dédoublonnés
 - CC-Systeme_projection
 - CC-Transformation
 - CC-Visualisation
-- computer cartography
-- Density estimation
-- density smoothing
-- Dirichlet integral
-- equal area maps
-- geographic movement
-- geographical movement
-- Helmholz equation
-- interruption
-- LEAST SQUARES
-- MAP COMPARISON
-- map projections
-- migration theory
-- Numerical methods
-- Numerical methods
-- Population density
-- quadratic programming
-- quadratic programming
-- simplifying coordinates
-- simplifying coordinates
-- spatial interaction
-- thematic maps
-- uniformizing maps
-- world maps
-- CC-Analyse spatiale
-- CC-Anamorphose (sauf cartogramme)
-- CC-BDL
-- CC-Cartogramme
-- CC-Déplacement-Transports
-- CC-Enseignement_cartographie
-- CC-Filtrage
-- CC-Généralisation
-- CC-Geographie, cartographie, etc.
-- CC-Histoire_cartographie
-- CC-Image, carte, etc.
-- CC-Lissage, interpolation
-- CC-Loi de Tobler
-- CC-Modelisation (mouvement)
-- CC-Modelisation mathématique
-- CC-Mouvements
-- CC-programmes
-- CC-Réflexion-informatique
-- CC-SIG (GIS)
-- CC-Systeme_projection
-- classification
-- distance
-- Migrations
+
