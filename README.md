@@ -52,6 +52,8 @@ Les metadonnées contiennent les champs suivants
 - la date de publication
 - la réference DOI
 
+Note de Christine du 23 mai 2024 : ici, tout reste à faire.
+
 ## 4.1. Etapes
 
 ### 4.1.1. Constitution de la base de données
